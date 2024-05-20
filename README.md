@@ -68,3 +68,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+<img width="1413" alt="Screenshot 2024-05-20 at 3 04 49 PM" src="https://github.com/DevangGarg/inventoryFront/assets/53138353/eaccf8cf-d508-4752-b5c2-d87b13d53940">
+
+<img width="1410" alt="Screenshot 2024-05-20 at 3 05 09 PM" src="https://github.com/DevangGarg/inventoryFront/assets/53138353/93e055a1-1497-4463-86a6-901c88c46353">
+
+
+<img width="1408" alt="Screenshot 2024-05-20 at 4 08 46 PM" src="https://github.com/DevangGarg/inventoryFront/assets/53138353/96037083-6e19-46e1-88f1-0c74e622721b">
+
+
+<img width="1409" alt="Screenshot 2024-05-20 at 4 10 20 PM" src="https://github.com/DevangGarg/inventoryFront/assets/53138353/7b417961-e8ad-4890-9b27-0ada05db2e6f">
+
+
+
+<img width="1416" alt="Screenshot 2024-05-20 at 4 10 29 PM" src="https://github.com/DevangGarg/inventoryFront/assets/53138353/6161dc1a-f136-4b39-b4a9-84960c50b4d3">
