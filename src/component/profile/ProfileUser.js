@@ -182,7 +182,14 @@ const ProfileUser = () => {
         <h1>Users Table</h1>
         <Button
           variant="outlined"
-          style={{ marginLeft: "70%" }}
+          style={{ marginLeft: "40%" }}
+          onClick={() => window.location.reload()}
+        >
+          Refresh
+        </Button>
+        <Button
+          variant="outlined"
+          style={{ marginLeft: "20%" }}
           onClick={handleClickOpen}
         >
           Add User
