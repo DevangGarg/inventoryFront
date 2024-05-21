@@ -44,7 +44,6 @@ const ProfileUser = () => {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [rePassword, setRePassword] = useState("");
-  const [anchorEl, setAnchorEl] = useState(null);
   const [newUsername, setNewUsername] = useState("");
   const [newEmail, setNewEmail] = useState("");
   const [newPassword, setNewPassword] = useState("");
@@ -318,7 +317,7 @@ const ProfileUser = () => {
             />
           </DialogContent>
           <DialogActions>
-            <Button onClick={handleClose}>Cancel</Button>
+            <Button onClick={() => setOpenUpdate(false)}>Cancel</Button>
             <Button
               type="button"
               onClick={(event) => {
